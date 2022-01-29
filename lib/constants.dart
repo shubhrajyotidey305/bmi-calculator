@@ -15,3 +15,24 @@ const kNumberSize = TextStyle(
   fontSize: 50.0,
   fontWeight: FontWeight.w900,
 );
+const kLargeButtonTextStyle = TextStyle(
+  fontSize: 25.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kLargeHeadlineStyle = TextStyle(
+  fontSize: 50.0,
+  fontWeight: FontWeight.bold,
+);
+const kResultTextStyle = TextStyle(
+  fontWeight: FontWeight.bold,
+  color: Color(0xFF24D876),
+  fontSize: 22.0,
+);
+
+const kBMITextStyle = TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kFeedbackStyle = TextStyle(fontSize: 22.0);
